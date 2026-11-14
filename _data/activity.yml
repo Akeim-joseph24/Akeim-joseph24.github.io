@@ -1,5 +1,9 @@
 # Most recent entry first. Add one line here whenever a real, meaningful
 # change lands on the site — this feed is meant to stay true to the repo.
+- date: 2026-11-14
+  text: "Published 'Closed-World Grounding' — the fourth Applied AI Systems paper, answering the open question from the orchestration-reliability field note"
+- date: 2026-11-14
+  text: "Gated the Admin page behind Cloudflare Access — real login, not just robots.txt obscurity"
 - date: 2026-09-16
   text: "Added the Activity Rail — a real, dated log of site changes"
 - date: 2026-09-16
