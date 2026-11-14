@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="page-content-wrap">
   <h1 class="page-heading">{{ page.title }}</h1>
-  <p class="section-intro">Private workspace — not linked from navigation, excluded from search indexing via <code>robots.txt</code>. This is obscurity, not authentication: the URL itself isn't secret if it leaks, so nothing that would actually matter if seen by a stranger belongs on this page yet. Real auth is the next step if that ever changes.</p>
+  <p class="section-intro">Private workspace — not linked from navigation, excluded from search indexing via <code>robots.txt</code>, and gated by Cloudflare Access: this path requires a one-time login code sent to the owner's email, enforced at the edge before any request reaches the origin. The URL leaking no longer matters — access depends on the login, not on secrecy.</p>
 
   <div class="index-section">
     <h2 class="index-section-heading">Traffic</h2>
