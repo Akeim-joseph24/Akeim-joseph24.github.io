@@ -4,6 +4,7 @@ title: A.R.C.H.O.N.
 category: private-rd
 status: Active — private R&D
 summary: A multi-agent orchestration system built around a biomimetic safety architecture.
+description: A multi-agent orchestration system built around a biomimetic safety architecture — bounded, non-agentic "Nano-AI" processes coordinated by a supervising agent.
 ---
 
 A multi-agent orchestration system: a supervising agent coordinates bounded, single-function "Nano-AI" processes under hard safety limits. The goal was never another chatbot — it's a system that reasons, checks itself, and doesn't hallucinate its way past a wrong answer.

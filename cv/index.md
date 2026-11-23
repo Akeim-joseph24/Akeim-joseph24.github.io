@@ -2,6 +2,7 @@
 layout: page
 title: CV
 permalink: /cv/
+description: Founder & Director, NARVI LLC — agent orchestration, AI safety engineering, and agentic security systems designed, directed, and verified end to end by Akeim Joseph.
 ---
 
 <p><a href="/assets/files/akeim-joseph-resume.pdf" class="project-status">Download PDF →</a></p>

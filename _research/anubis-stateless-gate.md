@@ -5,6 +5,7 @@ type: prototype
 status: Active build — Anubis
 date: 2026-10-17
 summary: A real design exchange, stress-tested against a concrete multi-step exfiltration scenario, for judging an AI agent's proposed action by its resulting state rather than its stated intent or a remembered sequence.
+description: A real design exchange, stress-tested against a concrete multi-step exfiltration scenario, for judging an AI agent's proposed action by its resulting state rather than its stated intent or a remembered sequence.
 ---
 
 ## The real design question

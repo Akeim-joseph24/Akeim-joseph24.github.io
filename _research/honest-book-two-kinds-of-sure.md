@@ -5,6 +5,7 @@ type: paper
 status: Published — Applied AI Systems
 date: 2026-10-08
 summary: A real reliability number sat next to another real number with identical visual authority but categorically different statistical weight — and only a code comment, never the interface, disclosed which was which.
+description: A real reliability number sat next to another real number with identical visual authority but categorically different statistical weight — and only a code comment, never the interface, disclosed which was which.
 ---
 
 ## Abstract

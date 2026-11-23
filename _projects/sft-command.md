@@ -4,6 +4,7 @@ title: SFT Command LLC
 category: private-rd
 status: Product discontinued — entity renamed to NARVI LLC
 summary: A financial platform for independent RIAs — 200+ backend functions. The product was stopped after eight months of outreach that never converted; the LLC itself was renamed, not dissolved.
+description: A financial platform for independent RIAs — 200+ backend functions, live Plaid/Stripe/Yahoo Finance integrations. Stopped after eight months of outreach that never converted; the LLC was renamed, not dissolved.
 ---
 
 Built a 200+ backend-function platform with live Plaid (account linking, balance sync), Stripe (payments, subscriptions, identity verification), and Yahoo Finance integrations — 50+ database schemas, multi-tenant isolation, RBAC, compliance audit trails.

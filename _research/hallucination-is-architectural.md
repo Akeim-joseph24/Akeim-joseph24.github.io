@@ -5,6 +5,7 @@ type: paper
 status: Published — AI Safety Engineering
 date: 2026-10-17
 summary: "Layered guardrails cut hallucination 71–89% versus unguarded deployments — but every effective approach shares one trait: none of them trust the model to just not hallucinate. They structurally remove the opportunity."
+description: "Layered guardrails cut hallucination 71–89% versus unguarded deployments — but every effective approach shares one trait: none of them trust the model to just not hallucinate."
 ---
 
 ## The topic, not just the project

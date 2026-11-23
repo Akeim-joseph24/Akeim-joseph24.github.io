@@ -4,6 +4,7 @@ title: Anubis
 category: private-rd
 status: Active — private R&D
 summary: A domain-scoped AI classifier and deterministic compliance gate for agentic systems, built separately from A.R.C.H.O.N. by design.
+description: A domain-scoped AI classifier and deterministic compliance gate for agentic systems, built separately from A.R.C.H.O.N. by design.
 ---
 
 Anubis sits at the decision threshold for AI agents — it judges whether a proposed action is allowed to execute, before it happens, not after. Instead of evaluating an action's name or intent, it evaluates the real consequence: a resource's security tags before and after the action (sensitivity, origin, category), checked against hard invariants written as plain predicates over that one proposed change.

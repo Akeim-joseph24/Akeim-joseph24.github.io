@@ -5,6 +5,7 @@ type: paper
 status: Published — Applied AI Systems
 date: 2026-11-14
 summary: Asked to classify a shape it had never seen phrased that way, a production classifier was wrong on every real-world "box" prediction and showed zero internal signal of doubt — thirty stochastic forward passes agreed with each other, on the wrong answer, every time. The fix that caught it never touched the model's confidence at all.
+description: Asked to classify a shape it had never seen phrased that way, a production classifier was wrong on every real-world "box" prediction and showed zero internal signal of doubt. The fix that caught it never touched the model's confidence at all.
 ---
 
 ## Abstract

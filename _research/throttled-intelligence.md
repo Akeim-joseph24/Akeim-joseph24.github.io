@@ -5,6 +5,7 @@ type: paper
 status: Published — AI Safety Engineering
 date: 2026-09-19
 summary: A constraint-driven multi-agent architecture that replaces generated facts with computed ones — grounded in a working, publicly verifiable system.
+description: A constraint-driven multi-agent architecture that replaces generated facts with computed ones — grounded in a working, publicly verifiable system.
 ---
 
 ## Abstract

@@ -4,6 +4,7 @@ title: PRISM
 category: public-research
 status: Public — research vehicle
 summary: The public half of the A.R.C.H.O.N. architecture, built in the open.
+description: The public half of the A.R.C.H.O.N. architecture, built in the open — the same multi-agent orchestration pattern, advanced internals held back.
 ---
 
 PRISM is a consumer-facing exploration of the same multi-agent orchestration architecture as A.R.C.H.O.N. — the advanced internals held back, the rest built in the open. It's what most of the writing on this site traces back to: what the architecture gets right, what breaks, and what ends up getting cut.

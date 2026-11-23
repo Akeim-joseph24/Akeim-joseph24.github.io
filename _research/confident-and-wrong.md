@@ -5,6 +5,7 @@ type: paper
 status: Published — Applied AI Systems
 date: 2026-09-25
 summary: A live production incident of an AI agent overclaiming its own actions — and the architecture discipline that makes a system's claims of success actually mean what they say.
+description: A live production incident of an AI agent overclaiming its own actions — and the architecture discipline that makes a system's claims of success actually mean what they say.
 ---
 
 ## Abstract

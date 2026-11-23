@@ -17,6 +17,7 @@ groups:
     label: Tests
     link: /research/tests/
     empty_message: Nothing here yet.
+description: Open research questions on making AI systems trustworthy enough to act, not just answer — running through A.R.C.H.O.N., PRISM, and Anubis.
 ---
 
 I work on the applied side of a question that mostly gets asked in theory: how do you make an AI system trustworthy enough to actually act, not just answer? Everything below is a real line of investigation running through A.R.C.H.O.N., PRISM, and Anubis — not a settled result, each one is stated as the question it actually is.

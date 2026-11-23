@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+description: NARVI is an applied-AI company — agent orchestration, AI safety engineering, and agentic security — founded and directed by Akeim Joseph.
 ---
 
 NARVI is an applied-AI company — agent orchestration, AI safety engineering, and agentic security, built as real, working systems rather than slide decks. Founded and directed by Akeim Joseph.
